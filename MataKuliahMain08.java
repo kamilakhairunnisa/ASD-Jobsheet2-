@@ -3,7 +3,7 @@ public class MataKuliahMain08 {
 
         MataKuliah08 mk1 = new MataKuliah08();
         mk1.kodeMK = "ASD08";
-        mk1.nama = "Algoritma dan Struktur Data"; 
+        mk1.nama = "Algoritma dan Struktur Data";  
         mk1.sks = 3;
         mk1.jumlahJam = 6;
 
