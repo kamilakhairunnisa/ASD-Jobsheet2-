@@ -23,12 +23,10 @@ public class MataKuliah08 {
 
     void ubahSKS(int sksBaru) {
         sks = sksBaru;
-        System.out.println("SKS berhasil diubah menjadi " + sks);
     }
 
     void tambahJam(int jam) {
         jumlahJam += jam;
-        System.out.println("Jumlah jam setelah ditambah: " + jumlahJam);
     }
 
     void kurangiJam(int jam) {
