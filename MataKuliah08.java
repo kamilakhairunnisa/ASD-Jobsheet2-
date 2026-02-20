@@ -7,7 +7,7 @@ public class MataKuliah08 {
 
     MataKuliah08() {}
 
-    MataKuliah08(String kodeMK, String nama, int sks, int jumlahJam) {
+    MataKuliah08(String kodeMK, String nama, int sks, int jumlahJam) { 
         this.kodeMK = kodeMK;
         this.nama = nama;
         this.sks = sks;
