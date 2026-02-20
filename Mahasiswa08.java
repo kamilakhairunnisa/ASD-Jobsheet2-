@@ -5,6 +5,16 @@ public class Mahasiswa08 {
     String kelas;
     double ipk;
 
+
+public Mahasiswa08() { }
+    public Mahasiswa08(String nama, String nim,double ipk, String kelas) {
+        this.nama = nama;
+        this.nim = nim;
+        this.ipk = ipk;
+        this.kelas = kelas;
+    }
+
+
     void tampilkanInformasi() {
         System.out.println("Nama: " + nama);
         System.out.println("Nim: " + nim);
