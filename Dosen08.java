@@ -6,9 +6,7 @@ public class Dosen08 {
     int tahunBergabung;
     String bidangKeahlian;
 
-    Dosen08() {
-
-    }
+    Dosen08() {}
 
     Dosen08(String idDosen, String nama, boolean statusAktif, int tahunBergabung, String bidangKeahlian) {
         this.idDosen = idDosen;
