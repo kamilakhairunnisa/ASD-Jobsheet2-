@@ -12,8 +12,7 @@ public class MataKuliahMain08 {
         mk1.tambahJam(2);
         mk1.kurangiJam(3);
         
-
-        MataKuliah08 mk2 = new MataKuliah08("BD08", "Basis Data", 2, 4);
+        MataKuliah08 mk2 = new MataKuliah08("BSD08", "Basis Data", 2, 4);
 
         mk2.tampilInformasi();
         mk2.tambahJam(1);
